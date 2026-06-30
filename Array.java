@@ -16,6 +16,7 @@ public class Array{
         arr[i] = sc.nextInt();
         System.out.println(arr[i]);
       }
+      sc.close();
     }
     
 }
